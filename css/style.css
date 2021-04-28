@@ -1,0 +1,132 @@
+#div-central{
+    visibility: hidden;
+    
+}
+
+
+
+.x{
+    
+    height: 40px;
+    margin-left: 200px;
+}
+.o{
+    margin-right: 400px;
+    float: right; 
+}
+
+.oimg{
+ 
+    height: 40px;
+   
+}
+
+table{
+   
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.pecas{
+
+    border: solid 2px black;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+
+}
+.container{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+#p2{
+    float: left;
+    position: absolute;
+    top: 30%;
+    left: 42%;
+
+}
+#return{
+    float: left;
+    position: absolute;
+    top: 87vh;
+    left: 10px;
+}
+#div1{
+    border-top: 0px;
+    border-left: 0px;
+}
+#div2{
+    border-top: 0px;
+
+}
+#div3{
+    border-top: 0px;
+    border-right: 0px;
+}
+#div4{
+    border-left: 0px;
+    
+}
+td{
+    padding: 0px;
+}
+#div6{
+    border-right: 0px;
+    
+}
+#div7{
+    border-bottom: 0px;
+    border-left: 0px;
+    
+}
+#div8{
+    border-bottom: 0px;
+}
+#div9{
+    border-bottom: 0px;
+    border-right: 0px;
+    
+}
+
+.space{
+    
+    padding-bottom: 10px;
+}
+.button{
+    box-shadow: 4px 8px 1px black;
+    border: 0px;
+    border-radius: 30%;
+    background-color: rgba(65, 235, 88, 0.65)
+}
+
+.buton{
+    background-color: beige;
+    margin-bottom: 90px;
+    margin-top: 20px;
+}
+.buton :focus{
+    outline: none;
+    box-shadow: none;
+}
+    
+.green{
+    border: solid 2px black;
+    height: 100px;
+    width: 100px;
+    background-image:  url("../img/x.png");
+    background-size: cover;
+
+}
+.red{
+
+    border: solid 2px black;
+    height: 100px;
+    width: 100px;
+    background-image:  url("../img/o.png");
+    background-size: cover;
+}
