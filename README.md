@@ -1,4 +1,4 @@
-# Jogo da Velha
+# Jogo da Velha :older_woman:
 
 Este é o primeiro projeto criado no meu repositório do GitHub, implementado utilizando HTML, CSS e JavaScript. Trata-se de uma versão digital do clássico jogo da velha, onde dois jogadores alternam entre "X" e "O" para marcar suas jogadas em uma grade de 3x3. O objetivo é conseguir três símbolos iguais em linha horizontal, vertical ou diagonal.
 
